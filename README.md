@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fromrahulrai&label=Profile%20views&color=0e75b6&style=flat" alt="fromrahulrai" /> </p>
 
-- 📖 I’m currently learning **Three.JS**
+- 📖 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS , Bootstrap, Tailwind, JavaScript, React, Vite**
 
